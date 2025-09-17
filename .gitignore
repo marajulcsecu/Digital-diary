@@ -1,0 +1,25 @@
+# Compiled binaries
+digital_diary
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Test diary entries (users will create their own)
+diary_entries.txt
+
+# Build artifacts
+*.a
+*.lib
+*.so
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
